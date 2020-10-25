@@ -35,7 +35,7 @@ pagead.l.doubleclick.net
 clickserve.dartsearch.net
 adservice.google.com
 pagead46.l.doubleclick.net
-www.googleadsservices.com
+www.googleadservices.com
 
 choices.trustarc.com
 pinpoint.us-east-1.amazonaws.com
